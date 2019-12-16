@@ -14,7 +14,11 @@ and the project progress data is well visualized in <정적 페이지 주소>
 
 ## Files
 
-<각 폴더 설명>
+
+## Model
+
+We implemented the detection model, which has been trained with DeepFashion2 dataset. 
+Due to size of the trained model, here's the link of detection model: https://drive.google.com/open?id=1Nrjqs3PdW5FPlhWEIAWyRTW8LUtCYutC
 
 
 
