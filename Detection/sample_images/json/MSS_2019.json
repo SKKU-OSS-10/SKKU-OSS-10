@@ -1,0 +1,4690 @@
+{
+    "input_Type": 1,
+    "input_R": 182,
+    "input_G": 176,
+    "input_B": 173,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 133,
+    "input_G": 142,
+    "input_B": 159,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 98,
+    "input_G": 93,
+    "input_B": 101,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 119,
+    "input_G": 114,
+    "input_B": 111,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 206,
+    "input_G": 191,
+    "input_B": 182,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 146,
+    "input_G": 94,
+    "input_B": 95,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 10,
+    "input_R": 199,
+    "input_G": 176,
+    "input_B": 179,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 190,
+    "input_G": 164,
+    "input_B": 155,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 145,
+    "input_G": 156,
+    "input_B": 173,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 186,
+    "input_G": 151,
+    "input_B": 150,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 200,
+    "input_G": 176,
+    "input_B": 162,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 127,
+    "input_G": 125,
+    "input_B": 128,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 154,
+    "input_G": 179,
+    "input_B": 140,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 161,
+    "input_G": 170,
+    "input_B": 191,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 146,
+    "input_G": 206,
+    "input_B": 219,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 213,
+    "input_G": 173,
+    "input_B": 121,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 150,
+    "input_G": 186,
+    "input_B": 166,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 114,
+    "input_G": 155,
+    "input_B": 203,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 185,
+    "input_G": 177,
+    "input_B": 171,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 160,
+    "input_G": 148,
+    "input_B": 144,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 151,
+    "input_G": 127,
+    "input_B": 188,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 100,
+    "input_G": 99,
+    "input_B": 105,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 111,
+    "input_G": 109,
+    "input_B": 113,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 125,
+    "input_G": 125,
+    "input_B": 129,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 110,
+    "input_G": 105,
+    "input_B": 104,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 163,
+    "input_G": 153,
+    "input_B": 142,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 170,
+    "input_G": 167,
+    "input_B": 168,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 218,
+    "input_G": 213,
+    "input_B": 205,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 165,
+    "input_G": 150,
+    "input_B": 128,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 106,
+    "input_G": 102,
+    "input_B": 106,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 130,
+    "input_G": 125,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 148,
+    "input_G": 165,
+    "input_B": 182,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 113,
+    "input_G": 111,
+    "input_B": 114,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 143,
+    "input_G": 120,
+    "input_B": 82,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 107,
+    "input_G": 118,
+    "input_B": 161,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 198,
+    "input_G": 175,
+    "input_B": 150,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 154,
+    "input_G": 153,
+    "input_B": 155,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 183,
+    "input_G": 179,
+    "input_B": 166,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 126,
+    "input_G": 125,
+    "input_B": 129,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 121,
+    "input_G": 118,
+    "input_B": 116,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 128,
+    "input_G": 131,
+    "input_B": 134,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 170,
+    "input_G": 143,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 122,
+    "input_G": 114,
+    "input_B": 118,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 122,
+    "input_G": 114,
+    "input_B": 118,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 190,
+    "input_G": 177,
+    "input_B": 172,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 201,
+    "input_G": 190,
+    "input_B": 184,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 113,
+    "input_G": 120,
+    "input_B": 137,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 221,
+    "input_G": 220,
+    "input_B": 199,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 98,
+    "input_G": 97,
+    "input_B": 105,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 209,
+    "input_G": 221,
+    "input_B": 165,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 193,
+    "input_G": 188,
+    "input_B": 187,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 132,
+    "input_G": 130,
+    "input_B": 121,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 74,
+    "input_G": 65,
+    "input_B": 86,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 125,
+    "input_G": 121,
+    "input_B": 124,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 212,
+    "input_G": 135,
+    "input_B": 144,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 115,
+    "input_G": 112,
+    "input_B": 115,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 165,
+    "input_G": 165,
+    "input_B": 121,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 110,
+    "input_G": 133,
+    "input_B": 150,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 212,
+    "input_G": 209,
+    "input_B": 205,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 111,
+    "input_B": 110,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 181,
+    "input_G": 162,
+    "input_B": 184,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 173,
+    "input_G": 159,
+    "input_B": 160,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 161,
+    "input_G": 148,
+    "input_B": 146,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 122,
+    "input_G": 99,
+    "input_B": 97,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 213,
+    "input_G": 213,
+    "input_B": 219,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 183,
+    "input_G": 124,
+    "input_B": 125,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 152,
+    "input_G": 101,
+    "input_B": 90,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 79,
+    "input_G": 80,
+    "input_B": 87,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 116,
+    "input_G": 111,
+    "input_B": 107,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 208,
+    "input_G": 202,
+    "input_B": 200,
+    "input_topType": "sweater",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 115,
+    "input_G": 120,
+    "input_B": 118,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 103,
+    "input_G": 123,
+    "input_B": 143,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 150,
+    "input_G": 123,
+    "input_B": 111,
+    "input_topType": "shirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 136,
+    "input_G": 154,
+    "input_B": 173,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 196,
+    "input_G": 187,
+    "input_B": 188,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 197,
+    "input_G": 175,
+    "input_B": 153,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 136,
+    "input_G": 122,
+    "input_B": 110,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 114,
+    "input_B": 107,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 163,
+    "input_G": 150,
+    "input_B": 139,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 144,
+    "input_G": 134,
+    "input_B": 144,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 102,
+    "input_G": 139,
+    "input_B": 177,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 143,
+    "input_G": 142,
+    "input_B": 132,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 179,
+    "input_G": 165,
+    "input_B": 140,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 133,
+    "input_G": 160,
+    "input_B": 186,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 104,
+    "input_G": 104,
+    "input_B": 104,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 191,
+    "input_G": 188,
+    "input_B": 201,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 119,
+    "input_G": 124,
+    "input_B": 130,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 87,
+    "input_G": 86,
+    "input_B": 96,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 239,
+    "input_G": 209,
+    "input_B": 211,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 130,
+    "input_G": 128,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 129,
+    "input_B": 134,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 210,
+    "input_G": 193,
+    "input_B": 184,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 202,
+    "input_G": 175,
+    "input_B": 184,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 155,
+    "input_G": 167,
+    "input_B": 187,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 111,
+    "input_G": 108,
+    "input_B": 128,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 166,
+    "input_G": 145,
+    "input_B": 124,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 148,
+    "input_G": 107,
+    "input_B": 112,
+    "input_topType": "shirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 175,
+    "input_G": 170,
+    "input_B": 174,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 87,
+    "input_G": 90,
+    "input_B": 94,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 178,
+    "input_G": 184,
+    "input_B": 124,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 140,
+    "input_G": 137,
+    "input_B": 143,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 181,
+    "input_G": 160,
+    "input_B": 152,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 108,
+    "input_G": 106,
+    "input_B": 110,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 139,
+    "input_G": 137,
+    "input_B": 148,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 177,
+    "input_G": 158,
+    "input_B": 154,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 148,
+    "input_G": 147,
+    "input_B": 150,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 117,
+    "input_G": 112,
+    "input_B": 117,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 59,
+    "input_G": 70,
+    "input_B": 73,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 98,
+    "input_G": 118,
+    "input_B": 156,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 96,
+    "input_G": 96,
+    "input_B": 104,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 137,
+    "input_G": 128,
+    "input_B": 118,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 131,
+    "input_G": 119,
+    "input_B": 120,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 163,
+    "input_G": 154,
+    "input_B": 157,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 100,
+    "input_G": 52,
+    "input_B": 64,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 143,
+    "input_G": 132,
+    "input_B": 138,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 206,
+    "input_G": 152,
+    "input_B": 122,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 178,
+    "input_G": 165,
+    "input_B": 162,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 108,
+    "input_G": 106,
+    "input_B": 110,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 158,
+    "input_G": 131,
+    "input_B": 113,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 176,
+    "input_G": 176,
+    "input_B": 180,
+    "input_topType": "shirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 134,
+    "input_G": 132,
+    "input_B": 136,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 105,
+    "input_G": 87,
+    "input_B": 84,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 106,
+    "input_G": 104,
+    "input_B": 105,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 85,
+    "input_G": 84,
+    "input_B": 95,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 131,
+    "input_B": 135,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 101,
+    "input_G": 96,
+    "input_B": 85,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 170,
+    "input_G": 157,
+    "input_B": 155,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 138,
+    "input_G": 137,
+    "input_B": 143,
+    "input_topType": "sweater",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 123,
+    "input_G": 128,
+    "input_B": 114,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 117,
+    "input_G": 116,
+    "input_B": 113,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 155,
+    "input_G": 152,
+    "input_B": 154,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 147,
+    "input_G": 144,
+    "input_B": 122,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 170,
+    "input_G": 147,
+    "input_B": 127,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 204,
+    "input_G": 198,
+    "input_B": 194,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 183,
+    "input_G": 180,
+    "input_B": 177,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 130,
+    "input_B": 129,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 181,
+    "input_G": 177,
+    "input_B": 177,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 93,
+    "input_G": 93,
+    "input_B": 102,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 95,
+    "input_G": 98,
+    "input_B": 115,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 148,
+    "input_G": 142,
+    "input_B": 143,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 136,
+    "input_G": 145,
+    "input_B": 155,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 192,
+    "input_G": 191,
+    "input_B": 194,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 112,
+    "input_G": 106,
+    "input_B": 100,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 94,
+    "input_G": 104,
+    "input_B": 110,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 124,
+    "input_G": 124,
+    "input_B": 112,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 82,
+    "input_G": 77,
+    "input_B": 86,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 179,
+    "input_G": 94,
+    "input_B": 97,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 145,
+    "input_G": 143,
+    "input_B": 122,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 142,
+    "input_G": 132,
+    "input_B": 128,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 118,
+    "input_B": 120,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 164,
+    "input_G": 146,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 77,
+    "input_G": 118,
+    "input_B": 160,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 110,
+    "input_G": 102,
+    "input_B": 94,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 187,
+    "input_G": 148,
+    "input_B": 134,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 160,
+    "input_G": 136,
+    "input_B": 127,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 147,
+    "input_G": 128,
+    "input_B": 128,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 125,
+    "input_G": 133,
+    "input_B": 146,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 111,
+    "input_G": 94,
+    "input_B": 86,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 112,
+    "input_G": 110,
+    "input_B": 112,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 146,
+    "input_G": 143,
+    "input_B": 146,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 118,
+    "input_G": 137,
+    "input_B": 161,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 127,
+    "input_G": 126,
+    "input_B": 130,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 196,
+    "input_G": 136,
+    "input_B": 112,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 170,
+    "input_G": 162,
+    "input_B": 155,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 186,
+    "input_G": 153,
+    "input_B": 118,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 98,
+    "input_G": 90,
+    "input_B": 86,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 131,
+    "input_G": 121,
+    "input_B": 122,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 146,
+    "input_G": 143,
+    "input_B": 147,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 124,
+    "input_G": 134,
+    "input_B": 149,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 108,
+    "input_G": 145,
+    "input_B": 180,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 137,
+    "input_G": 119,
+    "input_B": 111,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 159,
+    "input_G": 149,
+    "input_B": 153,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 111,
+    "input_G": 100,
+    "input_B": 99,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 130,
+    "input_G": 148,
+    "input_B": 169,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 80,
+    "input_G": 125,
+    "input_B": 162,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 12,
+    "input_R": 84,
+    "input_G": 85,
+    "input_B": 88,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 210,
+    "input_G": 207,
+    "input_B": 206,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 127,
+    "input_G": 101,
+    "input_B": 101,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 155,
+    "input_G": 148,
+    "input_B": 149,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 212,
+    "input_G": 202,
+    "input_B": 196,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 123,
+    "input_B": 125,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 132,
+    "input_G": 131,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 142,
+    "input_G": 124,
+    "input_B": 118,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 182,
+    "input_G": 137,
+    "input_B": 129,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 152,
+    "input_G": 136,
+    "input_B": 112,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 133,
+    "input_G": 127,
+    "input_B": 127,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 199,
+    "input_G": 169,
+    "input_B": 137,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 143,
+    "input_G": 141,
+    "input_B": 152,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 100,
+    "input_G": 97,
+    "input_B": 100,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 129,
+    "input_G": 155,
+    "input_B": 174,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 202,
+    "input_G": 134,
+    "input_B": 139,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 138,
+    "input_G": 138,
+    "input_B": 142,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 159,
+    "input_G": 138,
+    "input_B": 127,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 170,
+    "input_G": 148,
+    "input_B": 142,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 143,
+    "input_G": 137,
+    "input_B": 139,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 158,
+    "input_G": 152,
+    "input_B": 130,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 137,
+    "input_G": 135,
+    "input_B": 137,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 231,
+    "input_G": 176,
+    "input_B": 108,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 231,
+    "input_G": 176,
+    "input_B": 108,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 146,
+    "input_G": 146,
+    "input_B": 136,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 222,
+    "input_G": 151,
+    "input_B": 133,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 150,
+    "input_G": 147,
+    "input_B": 138,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 144,
+    "input_G": 139,
+    "input_B": 143,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 184,
+    "input_G": 181,
+    "input_B": 172,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 170,
+    "input_G": 166,
+    "input_B": 154,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 76,
+    "input_G": 74,
+    "input_B": 74,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 86,
+    "input_G": 80,
+    "input_B": 70,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 150,
+    "input_G": 142,
+    "input_B": 136,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 201,
+    "input_G": 193,
+    "input_B": 186,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 103,
+    "input_B": 132,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 154,
+    "input_G": 125,
+    "input_B": 97,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 107,
+    "input_G": 107,
+    "input_B": 108,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 195,
+    "input_G": 168,
+    "input_B": 128,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 115,
+    "input_G": 127,
+    "input_B": 147,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 203,
+    "input_G": 205,
+    "input_B": 156,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 166,
+    "input_G": 148,
+    "input_B": 156,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 115,
+    "input_G": 110,
+    "input_B": 111,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 129,
+    "input_G": 128,
+    "input_B": 136,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 187,
+    "input_G": 178,
+    "input_B": 173,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 83,
+    "input_G": 78,
+    "input_B": 81,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 147,
+    "input_G": 144,
+    "input_B": 150,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 157,
+    "input_G": 156,
+    "input_B": 154,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 129,
+    "input_G": 122,
+    "input_B": 120,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 117,
+    "input_G": 115,
+    "input_B": 130,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 152,
+    "input_G": 150,
+    "input_B": 152,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 134,
+    "input_G": 126,
+    "input_B": 128,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 216,
+    "input_G": 195,
+    "input_B": 158,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 152,
+    "input_G": 110,
+    "input_B": 103,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 190,
+    "input_G": 117,
+    "input_B": 124,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 70,
+    "input_G": 76,
+    "input_B": 81,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 114,
+    "input_G": 107,
+    "input_B": 108,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 143,
+    "input_G": 139,
+    "input_B": 126,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 230,
+    "input_G": 229,
+    "input_B": 231,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 164,
+    "input_G": 161,
+    "input_B": 173,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 89,
+    "input_G": 101,
+    "input_B": 107,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 154,
+    "input_G": 178,
+    "input_B": 200,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 135,
+    "input_G": 133,
+    "input_B": 135,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 183,
+    "input_G": 177,
+    "input_B": 176,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 124,
+    "input_B": 144,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 81,
+    "input_G": 75,
+    "input_B": 76,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 104,
+    "input_G": 98,
+    "input_B": 94,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 110,
+    "input_G": 109,
+    "input_B": 112,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 124,
+    "input_G": 100,
+    "input_B": 90,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 211,
+    "input_G": 202,
+    "input_B": 208,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 139,
+    "input_G": 135,
+    "input_B": 146,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 95,
+    "input_G": 93,
+    "input_B": 97,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 167,
+    "input_G": 136,
+    "input_B": 111,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 116,
+    "input_B": 120,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 185,
+    "input_G": 123,
+    "input_B": 146,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 145,
+    "input_G": 142,
+    "input_B": 146,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 149,
+    "input_G": 146,
+    "input_B": 151,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 177,
+    "input_G": 60,
+    "input_B": 112,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 94,
+    "input_G": 95,
+    "input_B": 98,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 116,
+    "input_G": 138,
+    "input_B": 161,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 180,
+    "input_G": 177,
+    "input_B": 190,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 143,
+    "input_G": 125,
+    "input_B": 107,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 74,
+    "input_G": 72,
+    "input_B": 79,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 82,
+    "input_G": 79,
+    "input_B": 84,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 105,
+    "input_G": 100,
+    "input_B": 98,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 147,
+    "input_G": 141,
+    "input_B": 143,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 10,
+    "input_R": 207,
+    "input_G": 199,
+    "input_B": 195,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 106,
+    "input_G": 105,
+    "input_B": 113,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 90,
+    "input_G": 93,
+    "input_B": 100,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 154,
+    "input_G": 141,
+    "input_B": 137,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 118,
+    "input_G": 90,
+    "input_B": 66,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 187,
+    "input_G": 49,
+    "input_B": 120,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 142,
+    "input_G": 114,
+    "input_B": 101,
+    "input_topType": "shirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 115,
+    "input_B": 117,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 150,
+    "input_G": 142,
+    "input_B": 138,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 136,
+    "input_G": 129,
+    "input_B": 139,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 161,
+    "input_G": 158,
+    "input_B": 168,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 109,
+    "input_G": 107,
+    "input_B": 109,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 122,
+    "input_G": 100,
+    "input_B": 104,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 172,
+    "input_G": 117,
+    "input_B": 114,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 131,
+    "input_B": 104,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 131,
+    "input_B": 104,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 129,
+    "input_G": 125,
+    "input_B": 120,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 91,
+    "input_G": 126,
+    "input_B": 142,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 137,
+    "input_G": 127,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 137,
+    "input_G": 127,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 118,
+    "input_G": 107,
+    "input_B": 107,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 124,
+    "input_G": 116,
+    "input_B": 108,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 146,
+    "input_G": 136,
+    "input_B": 128,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 146,
+    "input_G": 136,
+    "input_B": 128,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 112,
+    "input_G": 116,
+    "input_B": 126,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 111,
+    "input_G": 96,
+    "input_B": 96,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 116,
+    "input_G": 114,
+    "input_B": 121,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 141,
+    "input_G": 138,
+    "input_B": 139,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 104,
+    "input_G": 115,
+    "input_B": 125,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 186,
+    "input_G": 183,
+    "input_B": 186,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 62,
+    "input_G": 59,
+    "input_B": 51,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 103,
+    "input_G": 102,
+    "input_B": 106,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 179,
+    "input_G": 161,
+    "input_B": 97,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 120,
+    "input_G": 108,
+    "input_B": 107,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 134,
+    "input_G": 136,
+    "input_B": 151,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 182,
+    "input_G": 131,
+    "input_B": 109,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 119,
+    "input_G": 108,
+    "input_B": 111,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 171,
+    "input_G": 165,
+    "input_B": 163,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 204,
+    "input_G": 194,
+    "input_B": 186,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 148,
+    "input_G": 129,
+    "input_B": 132,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 103,
+    "input_G": 88,
+    "input_B": 79,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 170,
+    "input_G": 156,
+    "input_B": 142,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 132,
+    "input_G": 112,
+    "input_B": 113,
+    "input_topType": "shirt",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 135,
+    "input_G": 125,
+    "input_B": 126,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 126,
+    "input_G": 122,
+    "input_B": 121,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 170,
+    "input_G": 116,
+    "input_B": 120,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 113,
+    "input_G": 111,
+    "input_B": 115,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 195,
+    "input_G": 171,
+    "input_B": 122,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 142,
+    "input_G": 121,
+    "input_B": 114,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 114,
+    "input_G": 108,
+    "input_B": 107,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 156,
+    "input_G": 132,
+    "input_B": 105,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 220,
+    "input_G": 202,
+    "input_B": 171,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 161,
+    "input_G": 114,
+    "input_B": 102,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 202,
+    "input_G": 192,
+    "input_B": 186,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 156,
+    "input_G": 157,
+    "input_B": 169,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 166,
+    "input_G": 159,
+    "input_B": 155,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 149,
+    "input_G": 147,
+    "input_B": 161,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 81,
+    "input_G": 77,
+    "input_B": 79,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 191,
+    "input_G": 187,
+    "input_B": 187,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 125,
+    "input_G": 120,
+    "input_B": 120,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 112,
+    "input_G": 116,
+    "input_B": 118,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 194,
+    "input_G": 179,
+    "input_B": 167,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 170,
+    "input_G": 166,
+    "input_B": 165,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 133,
+    "input_G": 130,
+    "input_B": 133,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 77,
+    "input_G": 75,
+    "input_B": 76,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 100,
+    "input_G": 60,
+    "input_B": 62,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 183,
+    "input_G": 170,
+    "input_B": 156,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 56,
+    "input_G": 55,
+    "input_B": 59,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 81,
+    "input_G": 77,
+    "input_B": 74,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 220,
+    "input_G": 213,
+    "input_B": 212,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 204,
+    "input_G": 185,
+    "input_B": 184,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 113,
+    "input_G": 103,
+    "input_B": 109,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 111,
+    "input_G": 100,
+    "input_B": 102,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 110,
+    "input_G": 115,
+    "input_B": 136,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 188,
+    "input_G": 184,
+    "input_B": 187,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 184,
+    "input_G": 176,
+    "input_B": 168,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 231,
+    "input_G": 228,
+    "input_B": 227,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 120,
+    "input_G": 105,
+    "input_B": 99,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 159,
+    "input_G": 149,
+    "input_B": 147,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 116,
+    "input_G": 125,
+    "input_B": 140,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 99,
+    "input_G": 97,
+    "input_B": 100,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 93,
+    "input_G": 90,
+    "input_B": 94,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 197,
+    "input_G": 140,
+    "input_B": 139,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 145,
+    "input_G": 130,
+    "input_B": 128,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 160,
+    "input_G": 151,
+    "input_B": 149,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 109,
+    "input_G": 105,
+    "input_B": 105,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 63,
+    "input_G": 62,
+    "input_B": 62,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 147,
+    "input_G": 166,
+    "input_B": 187,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 106,
+    "input_G": 104,
+    "input_B": 107,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 156,
+    "input_G": 148,
+    "input_B": 151,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 121,
+    "input_B": 125,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 194,
+    "input_G": 173,
+    "input_B": 163,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 151,
+    "input_G": 140,
+    "input_B": 137,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 143,
+    "input_G": 144,
+    "input_B": 151,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 176,
+    "input_G": 95,
+    "input_B": 92,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 83,
+    "input_G": 81,
+    "input_B": 85,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 113,
+    "input_G": 112,
+    "input_B": 118,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 128,
+    "input_G": 126,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 171,
+    "input_G": 167,
+    "input_B": 163,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 94,
+    "input_G": 95,
+    "input_B": 102,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 133,
+    "input_G": 130,
+    "input_B": 128,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 155,
+    "input_G": 139,
+    "input_B": 135,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 131,
+    "input_G": 118,
+    "input_B": 118,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 173,
+    "input_G": 163,
+    "input_B": 156,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 86,
+    "input_G": 125,
+    "input_B": 178,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 170,
+    "input_G": 167,
+    "input_B": 173,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 82,
+    "input_G": 78,
+    "input_B": 78,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 83,
+    "input_G": 57,
+    "input_B": 55,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 85,
+    "input_G": 87,
+    "input_B": 89,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 128,
+    "input_G": 117,
+    "input_B": 109,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 135,
+    "input_G": 133,
+    "input_B": 136,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 10,
+    "input_R": 203,
+    "input_G": 187,
+    "input_B": 184,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 209,
+    "input_G": 197,
+    "input_B": 192,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 84,
+    "input_G": 82,
+    "input_B": 86,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 180,
+    "input_G": 146,
+    "input_B": 116,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 201,
+    "input_G": 192,
+    "input_B": 189,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 80,
+    "input_G": 76,
+    "input_B": 77,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 75,
+    "input_G": 65,
+    "input_B": 65,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 192,
+    "input_G": 137,
+    "input_B": 136,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 162,
+    "input_G": 148,
+    "input_B": 146,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 129,
+    "input_G": 131,
+    "input_B": 138,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 207,
+    "input_G": 119,
+    "input_B": 120,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 160,
+    "input_G": 150,
+    "input_B": 117,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 75,
+    "input_G": 82,
+    "input_B": 109,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 129,
+    "input_G": 127,
+    "input_B": 131,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 206,
+    "input_G": 202,
+    "input_B": 199,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 123,
+    "input_G": 118,
+    "input_B": 126,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 199,
+    "input_G": 213,
+    "input_B": 190,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 126,
+    "input_G": 127,
+    "input_B": 136,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 116,
+    "input_G": 105,
+    "input_B": 105,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 93,
+    "input_G": 88,
+    "input_B": 86,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 125,
+    "input_G": 123,
+    "input_B": 125,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 114,
+    "input_G": 111,
+    "input_B": 109,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 116,
+    "input_G": 135,
+    "input_B": 163,
+    "input_topType": "sweater",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 168,
+    "input_G": 155,
+    "input_B": 161,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 60,
+    "input_G": 59,
+    "input_B": 61,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 212,
+    "input_G": 206,
+    "input_B": 205,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 147,
+    "input_G": 125,
+    "input_B": 116,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 187,
+    "input_G": 149,
+    "input_B": 129,
+    "input_topType": "sweater",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 166,
+    "input_G": 144,
+    "input_B": 126,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 190,
+    "input_G": 190,
+    "input_B": 191,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 141,
+    "input_G": 140,
+    "input_B": 146,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 135,
+    "input_G": 127,
+    "input_B": 124,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 111,
+    "input_G": 101,
+    "input_B": 104,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 117,
+    "input_G": 98,
+    "input_B": 83,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 178,
+    "input_G": 157,
+    "input_B": 142,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 74,
+    "input_G": 71,
+    "input_B": 74,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 169,
+    "input_G": 128,
+    "input_B": 128,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 132,
+    "input_G": 96,
+    "input_B": 109,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 119,
+    "input_G": 107,
+    "input_B": 108,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 101,
+    "input_G": 113,
+    "input_B": 144,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 159,
+    "input_G": 155,
+    "input_B": 163,
+    "input_topType": "sweater",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 190,
+    "input_G": 185,
+    "input_B": 185,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 133,
+    "input_G": 131,
+    "input_B": 137,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 118,
+    "input_G": 112,
+    "input_B": 113,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 108,
+    "input_G": 115,
+    "input_B": 125,
+    "input_topType": "sweater",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 154,
+    "input_G": 143,
+    "input_B": 143,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 149,
+    "input_G": 146,
+    "input_B": 148,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 140,
+    "input_G": 110,
+    "input_B": 112,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 148,
+    "input_G": 146,
+    "input_B": 152,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 166,
+    "input_G": 147,
+    "input_B": 124,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 109,
+    "input_G": 97,
+    "input_B": 102,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 102,
+    "input_G": 87,
+    "input_B": 86,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 36,
+    "input_G": 34,
+    "input_B": 38,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 119,
+    "input_G": 119,
+    "input_B": 122,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 176,
+    "input_G": 154,
+    "input_B": 146,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 224,
+    "input_G": 216,
+    "input_B": 210,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 115,
+    "input_G": 112,
+    "input_B": 114,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 150,
+    "input_G": 140,
+    "input_B": 134,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 151,
+    "input_G": 119,
+    "input_B": 104,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 138,
+    "input_G": 113,
+    "input_B": 103,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 149,
+    "input_G": 131,
+    "input_B": 115,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 91,
+    "input_G": 90,
+    "input_B": 90,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 180,
+    "input_G": 172,
+    "input_B": 163,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 133,
+    "input_G": 101,
+    "input_B": 106,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 124,
+    "input_G": 121,
+    "input_B": 122,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 119,
+    "input_G": 99,
+    "input_B": 128,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 150,
+    "input_G": 126,
+    "input_B": 101,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 209,
+    "input_G": 206,
+    "input_B": 208,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 134,
+    "input_G": 131,
+    "input_B": 130,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 183,
+    "input_G": 172,
+    "input_B": 172,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 121,
+    "input_G": 130,
+    "input_B": 147,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 130,
+    "input_G": 85,
+    "input_B": 87,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 154,
+    "input_G": 144,
+    "input_B": 147,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 118,
+    "input_G": 108,
+    "input_B": 117,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 112,
+    "input_G": 121,
+    "input_B": 135,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 220,
+    "input_G": 206,
+    "input_B": 199,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 89,
+    "input_G": 78,
+    "input_B": 86,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 116,
+    "input_G": 109,
+    "input_B": 109,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 113,
+    "input_G": 110,
+    "input_B": 110,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 203,
+    "input_G": 180,
+    "input_B": 187,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 185,
+    "input_G": 171,
+    "input_B": 164,
+    "input_topType": "hoodie",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 153,
+    "input_G": 147,
+    "input_B": 151,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 186,
+    "input_G": 177,
+    "input_B": 174,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 141,
+    "input_G": 135,
+    "input_B": 133,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 117,
+    "input_G": 113,
+    "input_B": 124,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 102,
+    "input_G": 98,
+    "input_B": 101,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 142,
+    "input_G": 120,
+    "input_B": 114,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 161,
+    "input_G": 152,
+    "input_B": 149,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 101,
+    "input_G": 97,
+    "input_B": 98,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 179,
+    "input_G": 192,
+    "input_B": 210,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 137,
+    "input_G": 116,
+    "input_B": 108,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 191,
+    "input_G": 174,
+    "input_B": 167,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 111,
+    "input_G": 144,
+    "input_B": 178,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 123,
+    "input_G": 83,
+    "input_B": 87,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 106,
+    "input_B": 101,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 113,
+    "input_G": 104,
+    "input_B": 88,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 177,
+    "input_G": 160,
+    "input_B": 154,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 10,
+    "input_R": 164,
+    "input_G": 156,
+    "input_B": 158,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 174,
+    "input_G": 141,
+    "input_B": 113,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 139,
+    "input_G": 129,
+    "input_B": 132,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 128,
+    "input_G": 142,
+    "input_B": 148,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 101,
+    "input_G": 96,
+    "input_B": 100,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 132,
+    "input_G": 126,
+    "input_B": 131,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 167,
+    "input_G": 166,
+    "input_B": 171,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 96,
+    "input_G": 84,
+    "input_B": 87,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 145,
+    "input_G": 131,
+    "input_B": 121,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 178,
+    "input_G": 171,
+    "input_B": 168,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 96,
+    "input_G": 92,
+    "input_B": 96,
+    "input_topType": "sweatshirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 192,
+    "input_G": 123,
+    "input_B": 98,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 167,
+    "input_G": 155,
+    "input_B": 160,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 130,
+    "input_G": 97,
+    "input_B": 85,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 131,
+    "input_G": 118,
+    "input_B": 117,
+    "input_topType": "shirt",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 119,
+    "input_G": 116,
+    "input_B": 119,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 88,
+    "input_G": 85,
+    "input_B": 88,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 110,
+    "input_G": 107,
+    "input_B": 111,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 130,
+    "input_G": 128,
+    "input_B": 133,
+    "input_topType": "sweater",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 221,
+    "input_G": 211,
+    "input_B": 207,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 119,
+    "input_G": 118,
+    "input_B": 115,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 130,
+    "input_G": 122,
+    "input_B": 113,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 130,
+    "input_G": 129,
+    "input_B": 132,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 0,
+    "input_R": 142,
+    "input_G": 116,
+    "input_B": 143,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 95,
+    "input_G": 92,
+    "input_B": 96,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 151,
+    "input_G": 122,
+    "input_B": 115,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 93,
+    "input_G": 88,
+    "input_B": 91,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 12,
+    "input_R": 105,
+    "input_G": 102,
+    "input_B": 103,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 136,
+    "input_G": 153,
+    "input_B": 173,
+    "input_topType": "shirt",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 220,
+    "input_G": 210,
+    "input_B": 202,
+    "input_topType": "hoodie",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 133,
+    "input_G": 125,
+    "input_B": 122,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 200,
+    "input_G": 171,
+    "input_B": 158,
+    "input_topType": "shirt",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 147,
+    "input_G": 127,
+    "input_B": 104,
+    "input_topType": "sweater",
+    "input_topPattern": "printed",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 106,
+    "input_G": 128,
+    "input_B": 154,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 145,
+    "input_G": 144,
+    "input_B": 153,
+    "input_topType": "sweater",
+    "input_topPattern": "dot",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 83,
+    "input_G": 79,
+    "input_B": 82,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 233,
+    "input_G": 191,
+    "input_B": 162,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 140,
+    "input_G": 115,
+    "input_B": 101,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 4,
+    "input_R": 119,
+    "input_G": 100,
+    "input_B": 91,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 203,
+    "input_G": 174,
+    "input_B": 141,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 6,
+    "input_R": 69,
+    "input_G": 57,
+    "input_B": 63,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 127,
+    "input_G": 92,
+    "input_B": 93,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 171,
+    "input_G": 161,
+    "input_B": 157,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 8,
+    "input_R": 171,
+    "input_G": 161,
+    "input_B": 157,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 118,
+    "input_G": 110,
+    "input_B": 112,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 145,
+    "input_G": 151,
+    "input_B": 162,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 104,
+    "input_G": 114,
+    "input_B": 130,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 7,
+    "input_R": 92,
+    "input_G": 90,
+    "input_B": 87,
+    "input_topType": ".",
+    "input_topPattern": ".",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 139,
+    "input_G": 138,
+    "input_B": 142,
+    "input_topType": "shirt",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 182,
+    "input_G": 136,
+    "input_B": 142,
+    "input_topType": "hoodie",
+    "input_topPattern": "stripe",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 3,
+    "input_R": 161,
+    "input_G": 153,
+    "input_B": 151,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 126,
+    "input_G": 125,
+    "input_B": 129,
+    "input_topType": "hoodie",
+    "input_topPattern": "check",
+    "user_sex": 0,
+    "user_style": 0
+}{
+    "input_Type": 1,
+    "input_R": 221,
+    "input_G": 212,
+    "input_B": 213,
+    "input_topType": "hoodie",
+    "input_topPattern": "simple",
+    "user_sex": 0,
+    "user_style": 0
+}
