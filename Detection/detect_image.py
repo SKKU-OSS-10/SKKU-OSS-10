@@ -12,7 +12,7 @@ import traceback
 import csv
 import json
 import io
-f=open('imageoutput.csv','a',encoding="utf-8",newline="")
+f=open('imageoutput.csv','w',encoding="utf-8",newline="")
 wr=csv.writer(f)
 
 #RGB
