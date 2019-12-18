@@ -7,41 +7,44 @@
         body{
             margin:0;
             padding:0;
-        }
-        #wrap{
             width:100%;
             height:100%;
+        }
+        #wrap{
             overflow:hidden;
         }
         #form_div{
             float:left;
-        }
-        #btn_div{
-            float:left;
+            height:350px;
+            width:510px;
         }
         #text_div{
             float:left;
             width:400px;
+            margin-top:50px;
         }
         #pre_img{
             width:300px;
             height:300px;
             border-style: solid;
         }
-        #ebtn{
-            border:0;
-            padding: 0px;
-            background-color: white;
-            
-        }
         #filebutton{
-            width:200px;
+            width:300px;
         }
         #print{
             text-align:center;
             font-size:50px;
             width:350px;
             
+        }
+        #ebtn{
+            margin-top:50px;
+            width:200px;
+            height:200px;
+            background:url(gogo.png);
+            background-repeat: no-repeat;
+            background-color: white;
+            color:white;
         }
     </style>
   </head>
@@ -85,17 +88,15 @@ var input =
     <div style="width:100%; height:10%;"></div>
     <div style="width:10%;height:100%;float:left;"></div>
     <div id="form_div">
-        <form action="fileUpload.jsp" method="post" enctype="multipart/form-data">
-            <div id="pre_img" ></div>
-            <input type="file" id="filebutton" onchange="input();">
+        <form style="height:inherit;width:inherit;" action="fileUpload.jsp" method="post" enctype="multipart/form-data">
+            <div style="float:left;" id="pre_img" ></div>
+            <div style="float:left;"><input type="file" id="filebutton" onchange="input(); "></div>
+            <div ><input type="image" id="ebtn" value=""></div>
         </form>
     </div>
-    <div id="btn_div">
-      <button type="button" id="ebtn"><img src = "gogo.png"></button>
-    </div>  
       
     <div id="text_div">
-      <p id="print">당신의 점수는 ??점 입니다.</p>  
+      <p id="print">당신의 점수는 100점 입니다.</p>  
     </div>
         </div>
   </body>
