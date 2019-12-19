@@ -81,4 +81,4 @@ def detect_image(path):
     return
 
 if __name__ == "__main__":
-    detect_image("image.jpg")
+    detect_image(sys.argv[1])

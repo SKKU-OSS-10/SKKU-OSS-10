@@ -7,8 +7,9 @@ import java.nio.file.Paths;
 import java.nio.charset.Charset;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
 import java.util.ArrayList;
-
+import java.io.InputStreamReader;
 
 
 
@@ -17,6 +18,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Scanner user = new Scanner(System.in);
+		System.out.print("Input your file path: ");
+		String path = user.nextLine().trim();
+
+		ProcessBuilder pb=new ProcessBuilder("python","detect_image.py",path);
+		
 		String csvoutput="output_modify.csv";
 		BufferedReader br_init=null;
 		String line ="";
