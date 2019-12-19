@@ -12,8 +12,6 @@ import traceback
 import csv
 import json
 import io
-f=open('imageoutput.csv','w',encoding="utf-8",newline="")
-wr=csv.writer(f)
 
 #RGB
 def get_color(img):
@@ -36,6 +34,8 @@ def get_color(img):
 
 def detect_image(path):
 
+    f=open('imageoutput.csv','w')
+    wr=csv.writer(f)
     img = Image.open(path).convert("RGB")
     cropping=upper_lower_detection(img)
     trans = transforms.ToTensor()
