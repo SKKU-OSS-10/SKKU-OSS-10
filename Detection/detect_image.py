@@ -79,3 +79,6 @@ def detect_image(path):
                      color[0], color[1], color[2], category_pred, pattern_pred])
     
     return
+
+if __name__ == "__main__":
+    detect_image("image.jpg")
